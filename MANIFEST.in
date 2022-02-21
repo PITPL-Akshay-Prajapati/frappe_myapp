@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include unizone_app *.css
+recursive-include unizone_app *.csv
+recursive-include unizone_app *.html
+recursive-include unizone_app *.ico
+recursive-include unizone_app *.js
+recursive-include unizone_app *.json
+recursive-include unizone_app *.md
+recursive-include unizone_app *.png
+recursive-include unizone_app *.py
+recursive-include unizone_app *.svg
+recursive-include unizone_app *.txt
+recursive-exclude unizone_app *.pyc
