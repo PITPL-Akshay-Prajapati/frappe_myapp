@@ -172,6 +172,10 @@ user_data_fields = [
 	}
 ]
 
+fixtures = ['Item', 'Role Profile', 'Role', 'Custom Field',  'Purchase Order', 'Purchase Order Item', 'Supplier', 'User', 'Address', 
+	'Item Price', 'Contact', 'Pack Size',
+	'Client Script', 'Server Script']
+
 # Authentication and authorization
 # --------------------------------
 

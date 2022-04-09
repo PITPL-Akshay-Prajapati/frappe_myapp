@@ -1,0 +1,41 @@
+[
+ {
+  "address_line1": "Iscon",
+  "address_line2": null,
+  "address_title": "Ahmedabad",
+  "address_type": "Billing",
+  "city": "Ahmedabad",
+  "country": "India",
+  "county": "india",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Address",
+  "email_id": "prajapatiakshay96@gmail.com",
+  "fax": null,
+  "gst_state": "",
+  "gst_state_number": null,
+  "gstin": null,
+  "is_primary_address": 0,
+  "is_shipping_address": 0,
+  "is_your_company_address": 0,
+  "links": [
+   {
+    "link_doctype": "Supplier",
+    "link_name": "ABC",
+    "link_title": "ABC",
+    "parent": "Ahmedabad-Billing",
+    "parentfield": "links",
+    "parenttype": "Address"
+   }
+  ],
+  "modified": "2022-03-08 15:51:16.652529",
+  "name": "Ahmedabad-Billing",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": "8733034164",
+  "pincode": "382440",
+  "state": "gujarat",
+  "tax_category": null
+ }
+]

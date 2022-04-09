@@ -1,0 +1,26 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Pack Size",
+  "modified": "2022-02-25 10:16:14.557431",
+  "name": "6c11977894",
+  "pack_size": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product_form": null,
+  "uom": "nos."
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Pack Size",
+  "modified": "2022-02-25 10:17:34.963947",
+  "name": "cdsf",
+  "pack_size": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "product_form": null,
+  "uom": "gm"
+ }
+]

@@ -1,0 +1,15 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Purchase Order",
+  "enabled": 1,
+  "modified": "2022-03-31 12:57:49.808055",
+  "name": "Purchase Order-List",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "script": "frappe.listview_settings['Purchase Order'] = {\n    button: {\n        show: function(doc) {\n            return true;\n        },\n        get_label: function() {\n            return __('PDF');\n        },\n        get_description: function(doc) {\n            return __('Print {0}', [doc.name])\n        },\n        action: function(doc) {\n         frappe.set_route('Form', doc.name, doc.name);\n        }\n    }\n}",
+  "view": "List"
+ }
+]

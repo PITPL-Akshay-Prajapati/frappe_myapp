@@ -1,0 +1,1125 @@
+[
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [
+   {
+    "module": "unizone",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Non Profit",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Agriculture",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Telephony",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Loan Management",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Quality Management",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Restaurant",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Regional",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Portal",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Utilities",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Hotels",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "HR",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Automation",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Data Migration",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Printing",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Custom",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Workflow",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Website",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Email",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Geo",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Integrations",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Contacts",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Social",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Event Streaming",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Whitelabel",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Stock module",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Education",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "E-commerce",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Payroll",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Communication",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Hub Node",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ERPNext Integrations",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Healthcare",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Maintenance",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Assets",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Manufacturing",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Setup",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Projects",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "CRM",
+    "parent": "Administrator",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   }
+  ],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "admin@example.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Administrator",
+  "full_name": "Administrator",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": null,
+  "last_active": "2022-04-09 18:38:57.048424",
+  "last_ip": "127.0.0.1",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-13\", \"version\": \"13.21.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"main\", \"version\": \"13.14.0\"}, \"pseudo_app\": {\"title\": \"Pseudo App\", \"description\": \"erp customization app\", \"branch\": \"master\", \"version\": \"0.0.1\"}, \"unizone_app\": {\"title\": \"unizone\", \"description\": \"custome app for unizone\", \"branch\": \"master\", \"version\": \"0.0.1\"}, \"whitelabel\": {\"title\": \"Whitelabel\", \"description\": \"ERPNext Whitelabel\", \"branch\": \"master\", \"version\": \"0.0.1\"}}",
+  "last_login": "2022-04-09 18:38:49.306762",
+  "last_name": null,
+  "last_password_reset_date": null,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2022-03-31 17:17:51.808329",
+  "module_profile": "test",
+  "mute_sounds": 0,
+  "name": "Administrator",
+  "new_password": "",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": null,
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "System Manager"
+   }
+  ],
+  "send_me_a_copy": 1,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 1,
+  "social_logins": [],
+  "thread_notify": 0,
+  "time_zone": null,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "administrator"
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "guest@example.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Guest",
+  "full_name": "Guest",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": null,
+  "last_active": null,
+  "last_ip": null,
+  "last_known_versions": null,
+  "last_login": null,
+  "last_name": null,
+  "last_password_reset_date": null,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2022-01-26 13:13:01.600157",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "Guest",
+  "new_password": "",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": null,
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "Guest",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Guest"
+   }
+  ],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 1,
+  "social_logins": [],
+  "thread_notify": 0,
+  "time_zone": null,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "Website User",
+  "username": "guest"
+ },
+ {
+  "_liked_by": "[]",
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [
+   {
+    "module": "Core",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Workflow",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Custom",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Desk",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Printing",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Data Migration",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Automation",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Event Streaming",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "CRM",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Projects",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Selling",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Setup",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "HR",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Manufacturing",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Stock",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Support",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Utilities",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Assets",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Portal",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Maintenance",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Regional",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Healthcare",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Restaurant",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ERPNext Integrations",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Hotels",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Hub Node",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Quality Management",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Communication",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Loan Management",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Payroll",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Telephony",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "E-commerce",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Agriculture",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Education",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Non Profit",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Pseudo App",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "purchase order module",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Stock module",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Shipping Notices Module",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Whitelabel",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "unizone",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Email",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Geo",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Integrations",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Contacts",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Social",
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   }
+  ],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "akshay@pseudocode.co",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Akshay",
+  "full_name": "Akshay",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": "en-US",
+  "last_active": "2022-03-25 19:20:15.052525",
+  "last_ip": "127.0.0.1",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-13\", \"version\": \"13.21.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"main\", \"version\": \"13.14.0\"}, \"pseudo_app\": {\"title\": \"Pseudo App\", \"description\": \"erp customization app\", \"branch\": \"master\", \"version\": \"0.0.1\"}, \"unizone_app\": {\"title\": \"unizone\", \"description\": \"custome app for unizone\", \"branch\": \"master\", \"version\": \"0.0.1\"}, \"whitelabel\": {\"title\": \"Whitelabel\", \"description\": \"ERPNext Whitelabel\", \"branch\": \"master\", \"version\": \"0.0.1\"}}",
+  "last_login": "2022-02-21 18:07:58.514326",
+  "last_name": "",
+  "last_password_reset_date": null,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": "8733034164",
+  "modified": "2022-03-25 19:20:01.858811",
+  "module_profile": "",
+  "mute_sounds": 0,
+  "name": "akshay@pseudocode.co",
+  "new_password": "",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": "L7oXTinwSvNj2vX65NlBgLeZFzH0SS9b",
+  "restrict_ip": null,
+  "role_profile_name": "",
+  "roles": [
+   {
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales User"
+   },
+   {
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase User"
+   }
+  ],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 1,
+  "social_logins": [
+   {
+    "parent": "akshay@pseudocode.co",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "06c581b77c002b013f62e53e4048ba647ad92cb",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": null,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": "",
+  "user_type": "System User",
+  "username": "akshay"
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "jk@pseudocode.co",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "jilpesh",
+  "full_name": "jilpesh jk",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": "en-US",
+  "last_active": null,
+  "last_ip": null,
+  "last_known_versions": null,
+  "last_login": null,
+  "last_name": "jk",
+  "last_password_reset_date": null,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2022-03-25 17:26:11.722117",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "jk@pseudocode.co",
+  "new_password": "",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": "DdMmLiqTH9VugxXslPHUcDsB31vjHO9K",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "jk@pseudocode.co",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "System Manager"
+   }
+  ],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 1,
+  "social_logins": [
+   {
+    "parent": "jk@pseudocode.co",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "7f8d2d49f1f03e3ad4002395b953b9108f74633",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": null,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": "/files/unizone-logo-jpg.jpg",
+  "user_type": "System User",
+  "username": "jilpesh"
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "bhavik@pseudocode.co",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Bhavik",
+  "full_name": "Bhavik Bhua",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": "en-US",
+  "last_active": null,
+  "last_ip": null,
+  "last_known_versions": null,
+  "last_login": null,
+  "last_name": "Bhua",
+  "last_password_reset_date": null,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2022-02-17 16:13:25.186404",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "bhavik@pseudocode.co",
+  "new_password": "",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": "FYnRjYWzbGTWqkYrz5alRKJXf7ZhiZyp",
+  "restrict_ip": null,
+  "role_profile_name": "",
+  "roles": [
+   {
+    "parent": "bhavik@pseudocode.co",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Admin"
+   }
+  ],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 1,
+  "social_logins": [
+   {
+    "parent": "bhavik@pseudocode.co",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "f15470526663c75842ec5c8baf20e970740d494",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": null,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "bhavik"
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "preet@pseudocode.co",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Preet",
+  "full_name": "Preet Patel",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": "en-US",
+  "last_active": "2022-02-17 18:06:18.656041",
+  "last_ip": null,
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-13\", \"version\": \"13.20.1\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"main\", \"version\": \"13.14.0\"}, \"pseudo_app\": {\"title\": \"Pseudo App\", \"description\": \"erp customization app\", \"branch\": \"master\", \"version\": \"0.0.1\"}, \"whitelabel\": {\"title\": \"Whitelabel\", \"description\": \"ERPNext Whitelabel\", \"branch\": \"master\", \"version\": \"0.0.1\"}}",
+  "last_login": null,
+  "last_name": "Patel",
+  "last_password_reset_date": null,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2022-02-17 18:08:32.142073",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "preet@pseudocode.co",
+  "new_password": "",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": "3oy8xnn8FXaKxPbdL0u3Z4LbrnXiWVg9",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "preet@pseudocode.co",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Admin"
+   },
+   {
+    "parent": "preet@pseudocode.co",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "System Manager"
+   }
+  ],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 1,
+  "social_logins": [
+   {
+    "parent": "preet@pseudocode.co",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "7dd921bc61cc6fa9bbfd27ea5e3c384d5ede3d1",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": null,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "preet"
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "prajapatiakshay96@gmail.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Am",
+  "full_name": "Am Prajapati",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": "en-US",
+  "last_active": null,
+  "last_ip": null,
+  "last_known_versions": null,
+  "last_login": null,
+  "last_name": "Prajapati",
+  "last_password_reset_date": null,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2022-02-17 16:44:36.126122",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "prajapatiakshay96@gmail.com",
+  "new_password": "",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": "00Y3Zbyi4Q5s8DVdAs7PALsi9SB54nKm",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 1,
+  "social_logins": [
+   {
+    "parent": "prajapatiakshay96@gmail.com",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "8ed6a83fe4499eb76c6e198839c015d2b2c7adf",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": null,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "Website User",
+  "username": "am"
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "dinup4@gmail.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "asfda",
+  "full_name": "asfda",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": "en-US",
+  "last_active": null,
+  "last_ip": null,
+  "last_known_versions": null,
+  "last_login": null,
+  "last_name": null,
+  "last_password_reset_date": null,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2022-03-08 16:01:37.971919",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "dinup4@gmail.com",
+  "new_password": "",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": "2DZXRryzGwysFWU3zOW05Wvo4FeYb6fe",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [],
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 1,
+  "social_logins": [
+   {
+    "parent": "dinup4@gmail.com",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "41bb9c8338a96df53e05d40e64e63166f5c8527",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": null,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "Website User",
+  "username": "asfda"
+ }
+]

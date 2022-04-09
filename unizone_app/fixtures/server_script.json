@@ -1,0 +1,19 @@
+[
+ {
+  "allow_guest": 0,
+  "api_method": "@frappe.whitelist()",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Server Script",
+  "doctype_event": "Before Insert",
+  "event_frequency": "All",
+  "modified": "2022-03-31 18:40:09.318618",
+  "name": "sidebar",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "reference_doctype": "Workspace",
+  "script": "def get_desk_sidebar_items():\n\n\t# pages sorted based on pinned to top and then by name\n\torder_by = \"creation asc\"\n\tall_pages = frappe.get_all(\"Workspace\", fields=[\"name\", \"category\", \"icon\",  \"module\"],\n\t\tfilters=filters, order_by=order_by, ignore_permissions=True)\n\tpages = []\n\n\treturn pages",
+  "script_type": "API"
+ }
+]
